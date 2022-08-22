@@ -1,6 +1,6 @@
 # A boilerplate for barba, GSAP and shopify using Dawn theme
 
-# Basic page transitions
+# Slick & smooth page transitions :point_down: 
 
 
 ## A simple fade
