@@ -16,6 +16,7 @@ TODO :sparkles:
 - Add dynamic transition options in schema
 - Add unlimted options
 - Add custom editor implementation
+- Add more animated elements / effects :heart_eyes: 
 
 TO FIX :bug:
 - Resolve PDP issue
